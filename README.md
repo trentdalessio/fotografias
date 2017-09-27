@@ -1,1 +1,2 @@
-# prueba
+# Bootstrap
+Plantilla para Bootstrap
